@@ -34,6 +34,7 @@ The app will choose a random response from the intent's responses when a user's 
 You can customize the predefined responses in Amharic to make the app respond the way you prefer.
 
 **Usage**
+
 The Amharic Chat App can be used for:
 
 Practicing Amharic language conversation.
@@ -43,6 +44,7 @@ Contributions
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify and expand this README to suit your specific needs. It provides a brief overview of the app's features, customization options, and how to get started using it.
