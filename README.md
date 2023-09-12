@@ -1,14 +1,17 @@
-Amharic Chat app
+**Amharic Chat bot**
+
 The Amharic Chat App is a simple web application that allows users to have text-based conversations in the Amharic language. This app is designed to respond to user inputs with predefined responses, making it a basic conversational AI.
 
-Features
+**Features**
+
 Easy-to-use interface for text-based chat interactions.
 Predefined responses for common user inputs and questions in Amharic.
 Intent-based responses for a more dynamic conversation experience.
 Simulated AI response delay for a more natural chat flow.
 Customizable responses for specific intents.
-Getting Started
-To get started with the Amharic Chat App, follow these steps:
+
+**Getting Started**
+To get started with the Amharic Chat bot, follow these steps:
 
 Clone this repository to your local machine or download the source code.
 
@@ -29,7 +32,7 @@ The app will choose a random response from the intent's responses when a user's 
 
 You can customize the predefined responses in Amharic to make the app respond the way you prefer.
 
-Usage
+**Usage**
 The Amharic Chat App can be used for:
 
 Practicing Amharic language conversation.
@@ -38,7 +41,7 @@ Experimenting with intent-based chatbot responses.
 Contributions
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to modify and expand this README to suit your specific needs. It provides a brief overview of the app's features, customization options, and how to get started using it.
