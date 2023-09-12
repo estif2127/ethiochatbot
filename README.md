@@ -1,6 +1,6 @@
 **Amharic Chat bot**
 
-The Amharic Chat App is a simple web application that allows users to have text-based conversations in the Amharic language. This app is designed to respond to user inputs with predefined responses, making it a basic conversational AI.
+The Amharic Chat bot is a simple web application that allows users to have text-based conversations in the Amharic language. This app is designed to respond to user inputs with predefined responses, making it a basic conversational AI.
 
 **Features**
 
