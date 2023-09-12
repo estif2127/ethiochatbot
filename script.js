@@ -5,15 +5,15 @@ const sendButton = document.getElementById('send-button');
 // Define intents and their associated responses
 const intents = {
   'greeting': {
-    userInputs: ['ሰላም', 'እንደምን ነህ', 'ዋና ገጽ'],
-    responses: ['ሰላም!', 'እንዴት ነሽ?', 'ሰላም! እዚህ በተጨማሪ ውስጥ ነው።'],
+    userInputs: ['ሰላም', 'እንደምን ነህ', 'አንደምን፡አመሸህ' 'ጤና ይስጥልኝ' ],
+    responses: ['ሰላም!', 'እንዴት ነሽ?',  'ደህና ነኝ አንተስ እንዴት ነህ'],
   },
   'how_are_you': {
     userInputs: ['እንዴት ነሽ?', 'እንዴት ነህ?'],
     responses: ['አኔ ደህና ነኝ።', 'እያለን ነው።', 'በእውቀት ነኝ።'],
   },
   'thanks': {
-    userInputs: ['አመሰግናለሁ', 'እንዴት መልስ ነው'],
+    userInputs: ['አመሰግናለሁ'],
     responses: ['አመሰግናለሁ!', 'መልስ ነው።'],
   },
   'default': {
