@@ -11,6 +11,7 @@ Simulated AI response delay for a more natural chat flow.
 Customizable responses for specific intents.
 
 **Getting Started**
+
 To get started with the Amharic Chat bot, follow these steps:
 
 Clone this repository to your local machine or download the source code.
